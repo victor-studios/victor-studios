@@ -493,9 +493,9 @@ WORK = [
     ("blackmomento", "The Black Momento", "E-COMMERCE"), ("blckbuster", "Blckbuster", "WEB3 MARKETPLACE"),
 ]
 
-PILLS = [("site", "Website", "globe"), ("contra", "Contra", "contra"), ("fiverr", "Fiverr", "fiverr"),
-         ("upwork", "Upwork", "upwork"), ("behance", "Behance", "behance"), ("dribbble", "Dribbble", "dribbble"),
-         ("linkedin", "LinkedIn", "linkedin"), ("framer", "Framer", "framer")]
+PILLS = [("site", "Website", "globe"), ("framer", "Framer", "framer"), ("contra", "Contra", "contra"),
+         ("fiverr", "Fiverr", "fiverr"), ("x", "X", "x"), ("youtube", "YouTube", "youtube"),
+         ("instagram", "Instagram", "instagram"), ("linkedin", "LinkedIn", "linkedin")]
 
 
 def main():
